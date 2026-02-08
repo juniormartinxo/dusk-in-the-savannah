@@ -4,11 +4,7 @@ A **dark** theme for VS Code, inspired by the dusk of the savannah: graphite bas
 
 ## Preview
 
-> Place your screenshots here:
-
-* `./images/editor.png`
-* `./images/sidebar.png`
-* `./images/terminal.png`
+<img width="1921" height="1030" alt="image" src="./images/preview.png" />
 
 ## Why use it
 

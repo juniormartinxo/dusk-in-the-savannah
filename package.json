@@ -1,0 +1,22 @@
+{
+  "name": "dusk-in-the-savannah",
+  "displayName": "Dusk In The Savannah",
+  "publisher": "juniormartinxo",
+  "version": "0.0.2",
+  "icon": "themes/extension/icon.png",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dusk In The Savannah",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juniormartinxo-color-theme.json"
+      }
+    ]
+  }
+}

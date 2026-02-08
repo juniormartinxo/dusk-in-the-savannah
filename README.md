@@ -4,7 +4,7 @@ A **dark** theme for VS Code, inspired by the dusk of the savannah: graphite bas
 
 ## Preview
 
-<img width="1919" height="1030" alt="preview" src="https://github.com/user-attachments/assets/81b3e9ae-4ef2-4f96-a803-9137aa708cdc" />
+<img alt="preview" src="https://github.com/user-attachments/assets/81b3e9ae-4ef2-4f96-a803-9137aa708cdc" />
 
 ## Why use it
 

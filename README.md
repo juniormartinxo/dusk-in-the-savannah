@@ -1,32 +1,32 @@
 # Dusk In The Savannah
 
-Tema **dark** para VS Code, inspirado no crepúsculo da savana: base grafite, contraste limpo e acentos quentes (laranja queimado) com um toque sutil de azul tech. Foco total, zero carnaval.
+A **dark** theme for VS Code, inspired by the dusk of the savannah: graphite base, clean contrast, and warm accents (burnt orange) with a subtle touch of tech blue. Total focus, zero clutter.
 
 ## Preview
 
-> Coloque aqui seus screenshots:
+> Place your screenshots here:
 
 * `./images/editor.png`
 * `./images/sidebar.png`
 * `./images/terminal.png`
 
-## Por que usar
+## Why use it
 
-* **Baixa fadiga visual**: tons escuros equilibrados, sem “preto chapado”.
-* **Acentos inteligentes**: laranja para ação/estado, azul para foco/seleção.
-* **UI consistente**: barra lateral, abas, painel e terminal conversando na mesma paleta.
+* **Low visual fatigue**: balanced dark tones, no "flat black".
+* **Smart accents**: orange for action/state, blue for focus/selection.
+* **Consistent UI**: sidebar, tabs, panel, and terminal speaking the same palette language.
 
-## Instalação
+## Installation
 
-1. Abra o **Extensions** no VS Code
-2. Pesquise por: `Dusk In The Savannah`
-3. Instale e ative:
+1. Open **Extensions** in VS Code
+2. Search for: `Dusk In The Savannah`
+3. Install and activate:
 
    * `Preferences → Color Theme → Dusk In The Savannah`
 
-## Recomendação de configuração
+## Recommended Configuration
 
-Sugestão para deixar a leitura ainda mais “premium”:
+Suggestion to make reading even more "premium":
 
 ```json
 {
@@ -39,22 +39,22 @@ Sugestão para deixar a leitura ainda mais “premium”:
 }
 ```
 
-## Paleta base
+## Base Palette
 
 * **Background UI:** `#23272E`, `#1D1F23`, `#282C34`, `#2F333D`
-* **Texto/Neutros:** `#9DA5B4`, `#D8DEE9`
-* **Acento quente:** `#A53500`, `#F7A04F`
-* **Acento frio:** `#009DFF`
+* **Text/Neutrals:** `#9DA5B4`, `#D8DEE9`
+* **Warm Accent:** `#A53500`, `#F7A04F`
+* **Cool Accent:** `#009DFF`
 
-## Ícone
+## Icon
 
 * PNG **128x128**
-* **Background transparente**
-* Estilo minimalista (flat), alinhado à identidade “dusk/savana”.
+* **Transparent Background**
+* Minimalist style (flat), aligned with the "dusk/savannah" identity.
 
-## Suporte
+## Support
 
-Funciona bem em:
+Works well in:
 
 * TypeScript / JavaScript
 * Python
@@ -63,25 +63,25 @@ Funciona bem em:
 * HTML/CSS/Markdown
 * YAML/JSON
 
-> Se você achar algum token “apagado” ou “forte demais”, abre issue com print e linguagem/arquivo.
+> If you find any token too "faded" or "too strong", open an issue with a screenshot and language/file.
 
-## Contribuindo
+## Contributing
 
 1. Fork
-2. Crie sua branch: `feat/minha-melhoria`
-3. Commit com descrição objetiva
-4. PR com:
+2. Create your branch: `feat/my-improvement`
+3. Commit with an objective description
+4. PR with:
 
-   * antes/depois (print)
-   * quais escopos/cores foram impactados
-   * rationale (por que isso melhora UX)
+   * before/after (screenshot)
+   * which scopes/colors were impacted
+   * rationale (why this improves UX)
 
-## Release notes
+## Release Notes
 
 ### 0.1.0
 
-* Primeira versão do tema `Dusk In The Savannah`.
+* First version of `Dusk In The Savannah` theme.
 
-## Licença
+## License
 
-MIT — use, modifique, distribua. Só não venda como “milagre de produtividade”.
+MIT — use, modify, distribute. Just don't sell it as a "productivity miracle".

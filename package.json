@@ -21,6 +21,31 @@
         "label": "Dusk In The Savannah",
         "uiTheme": "vs-dark",
         "path": "./themes/juniormartinxo-color-theme.json"
+      },
+      {
+        "label": "Dusk In The Savannah - Forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juniormartinxo-forest-color-theme.json"
+      },
+      {
+        "label": "Dusk In The Savannah - Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juniormartinxo-ocean-color-theme.json"
+      },
+      {
+        "label": "Dusk In The Savannah - Ruby",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juniormartinxo-ruby-color-theme.json"
+      },
+      {
+        "label": "Dusk In The Savannah - Ember",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juniormartinxo-ember-color-theme.json"
+      },
+      {
+        "label": "Dusk In The Savannah - Violet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juniormartinxo-violet-color-theme.json"
       }
     ]
   }

@@ -1,24 +1,42 @@
 # Dusk In The Savannah
 
-A **dark** theme for VS Code, inspired by the dusk of the savannah: graphite base, clean contrast, and warm accents (burnt orange) with a subtle touch of tech blue. Total focus, zero clutter.
+A family of **dark** VS Code themes inspired by the dusk of the savannah: graphite base, clean contrast, and multiple accent variants tuned for long coding sessions with low visual noise.
 
 ## Preview
 
-<img alt="preview" src="https://github.com/user-attachments/assets/81b3e9ae-4ef2-4f96-a803-9137aa708cdc" />
+![Preview of Dusk In The Savannah theme](https://github.com/user-attachments/assets/81b3e9ae-4ef2-4f96-a803-9137aa708cdc)
 
 ## Why use it
 
 * **Low visual fatigue**: balanced dark tones, no "flat black".
-* **Smart accents**: orange for action/state, blue for focus/selection.
+* **Accent variety**: choose between the original accent plus Forest, Ocean, Ruby, Ember, and Violet variants.
 * **Consistent UI**: sidebar, tabs, panel, and terminal speaking the same palette language.
+
+## Included Themes
+
+This extension currently ships with six selectable themes:
+
+* `Dusk In The Savannah`
+* `Dusk In The Savannah - Forest`
+* `Dusk In The Savannah - Ocean`
+* `Dusk In The Savannah - Ruby`
+* `Dusk In The Savannah - Ember`
+* `Dusk In The Savannah - Violet`
 
 ## Installation
 
 1. Open **Extensions** in VS Code
 2. Search for: `Dusk In The Savannah`
-3. Install and activate:
+3. Install the extension
+4. Open `Preferences → Color Theme`
+5. Pick one of:
 
-   * `Preferences → Color Theme → Dusk In The Savannah`
+   * `Dusk In The Savannah`
+   * `Dusk In The Savannah - Forest`
+   * `Dusk In The Savannah - Ocean`
+   * `Dusk In The Savannah - Ruby`
+   * `Dusk In The Savannah - Ember`
+   * `Dusk In The Savannah - Violet`
 
 ## Recommended Configuration
 
@@ -35,12 +53,21 @@ Suggestion to make reading even more "premium":
 }
 ```
 
-## Base Palette
+## Core Palette
 
 * **Background UI:** `#23272E`, `#1D1F23`, `#282C34`, `#2F333D`
 * **Text/Neutrals:** `#9DA5B4`, `#D8DEE9`
 * **Warm Accent:** `#A53500`, `#F7A04F`
 * **Cool Accent:** `#009DFF`
+
+## Variant Accents
+
+* **Default:** `#A53500`
+* **Forest:** `#415936`
+* **Ocean:** `#034C8C`
+* **Ruby:** `#8C3B61`
+* **Ember:** `#C75B39`
+* **Violet:** `#A67E4E`
 
 ## Icon
 
@@ -74,9 +101,11 @@ Works well in:
 
 ## Release Notes
 
-### 0.1.0
+### Unreleased
 
-* First version of `Dusk In The Savannah` theme.
+* Split the former magenta `Ember` variant into `Ruby`.
+* Added a new `Ember` variant with a warmer ember-toned accent.
+* Updated the extension contribution list so all six themes appear in VS Code.
 
 ## License
 

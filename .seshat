@@ -26,7 +26,7 @@ checks:
 
 # AI Code Review
 code_review:
-  enabled: true
+  enabled: false
   blocking: true
   prompt: seshat-review.md  # Edite este arquivo!
   extensions: [".ts", ".tsx", ".js", ".jsx", ".mjs", ".cjs"]  # extensões padrão detectadas

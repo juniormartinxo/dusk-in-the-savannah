@@ -6,4 +6,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+- Renamed the former magenta `Ember` palette to `Ruby`.
+- Added a new warm `Ember` variant.
+- Registered all theme variants in the extension manifest so they are selectable in VS Code.

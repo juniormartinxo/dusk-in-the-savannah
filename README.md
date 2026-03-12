@@ -67,7 +67,7 @@ Suggestion to make reading even more "premium":
 * **Ocean:** `#034C8C`
 * **Ruby:** `#8C3B61`
 * **Ember:** `#C75B39`
-* **Violet:** `#A67E4E`
+* **Violet:** `#7F00FF`
 
 ## Icon
 

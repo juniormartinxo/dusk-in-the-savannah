@@ -9,18 +9,22 @@ A family of **dark** VS Code themes inspired by the dusk of the savannah: graphi
 ## Why use it
 
 * **Low visual fatigue**: balanced dark tones, no "flat black".
-* **Accent variety**: choose between the original accent plus Forest, Ocean, Ruby, Ember, and Violet variants.
+* **Accent variety**: choose between the original accent plus Forest, Ocean, Ruby, Ember, Ochre, Steel, Olive, Coral, and Violet variants.
 * **Consistent UI**: sidebar, tabs, panel, and terminal speaking the same palette language.
 
 ## Included Themes
 
-This extension currently ships with six selectable themes:
+This extension currently ships with ten selectable themes:
 
 * `Dusk In The Savannah`
 * `Dusk In The Savannah - Forest`
 * `Dusk In The Savannah - Ocean`
 * `Dusk In The Savannah - Ruby`
 * `Dusk In The Savannah - Ember`
+* `Dusk In The Savannah - Ochre`
+* `Dusk In The Savannah - Steel`
+* `Dusk In The Savannah - Olive`
+* `Dusk In The Savannah - Coral`
 * `Dusk In The Savannah - Violet`
 
 ## Installation
@@ -36,6 +40,10 @@ This extension currently ships with six selectable themes:
    * `Dusk In The Savannah - Ocean`
    * `Dusk In The Savannah - Ruby`
    * `Dusk In The Savannah - Ember`
+   * `Dusk In The Savannah - Ochre`
+   * `Dusk In The Savannah - Steel`
+   * `Dusk In The Savannah - Olive`
+   * `Dusk In The Savannah - Coral`
    * `Dusk In The Savannah - Violet`
 
 ## Recommended Configuration
@@ -67,6 +75,10 @@ Suggestion to make reading even more "premium":
 * **Ocean:** `#034C8C`
 * **Ruby:** `#8C3B61`
 * **Ember:** `#C75B39`
+* **Ochre:** `#F2C641`
+* **Steel:** `#8C8C8C`
+* **Olive:** `#94A653`
+* **Coral:** `#FF5F5D`
 * **Violet:** `#7F00FF`
 
 ## Icon
@@ -105,7 +117,11 @@ Works well in:
 
 * Split the former magenta `Ember` variant into `Ruby`.
 * Added a new `Ember` variant with a warmer ember-toned accent.
-* Updated the extension contribution list so all six themes appear in VS Code.
+* Added the new `Ochre` variant based on `#F2C641`.
+* Added the new `Steel` variant based on `#8C8C8C`.
+* Added the new `Olive` variant based on `#94A653`.
+* Added the new `Coral` variant based on `#FF5F5D`.
+* Updated the extension contribution list so all ten themes appear in VS Code.
 
 ## License
 

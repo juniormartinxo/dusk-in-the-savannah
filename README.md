@@ -9,12 +9,12 @@ A family of **dark** VS Code themes inspired by the dusk of the savannah: graphi
 ## Why use it
 
 * **Low visual fatigue**: balanced dark tones, no "flat black".
-* **Accent variety**: choose between the original accent plus Forest, Ocean, Ruby, Ember, Ochre, Steel, Olive, Coral, and Violet variants.
+* **Accent variety**: choose between the original accent plus Forest, Ocean, Ruby, Ember, Ochre, Steel, Olive, Coral, Violet, and the new `[Plus]` Taupe variant.
 * **Consistent UI**: sidebar, tabs, panel, and terminal speaking the same palette language.
 
 ## Included Themes
 
-This extension currently ships with ten selectable themes:
+This extension currently ships with eleven selectable themes:
 
 * `Dusk In The Savannah`
 * `Dusk In The Savannah - Forest`
@@ -26,6 +26,7 @@ This extension currently ships with ten selectable themes:
 * `Dusk In The Savannah - Olive`
 * `Dusk In The Savannah - Coral`
 * `Dusk In The Savannah - Violet`
+* `Dusk In The Savannah [Plus] - Taupe`
 
 ## Installation
 
@@ -45,6 +46,7 @@ This extension currently ships with ten selectable themes:
    * `Dusk In The Savannah - Olive`
    * `Dusk In The Savannah - Coral`
    * `Dusk In The Savannah - Violet`
+   * `Dusk In The Savannah [Plus] - Taupe`
 
 ## Recommended Configuration
 
@@ -80,6 +82,7 @@ Suggestion to make reading even more "premium":
 * **Olive:** `#94A653`
 * **Coral:** `#FF5F5D`
 * **Violet:** `#7F00FF`
+* **[Plus] Taupe:** `#595445`, `#8C816D`, `#BFB49F`, `#F2DABD`, `#0D0D0D`
 
 ## Icon
 
@@ -121,7 +124,8 @@ Works well in:
 * Added the new `Steel` variant based on `#8C8C8C`.
 * Added the new `Olive` variant based on `#94A653`.
 * Added the new `Coral` variant based on `#FF5F5D`.
-* Updated the extension contribution list so all ten themes appear in VS Code.
+* Added the new `Dusk In The Savannah [Plus] - Taupe` variant with a deeper sand-and-taupe UI treatment.
+* Updated the extension contribution list so all eleven themes appear in VS Code.
 
 ## License
 

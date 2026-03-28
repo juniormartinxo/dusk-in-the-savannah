@@ -5,7 +5,7 @@
     "activityBar.background": "#23272e",
     "activityBar.border": "#23272E",
     "activityBar.foreground": "#576073",
-    "activityBarBadge.background": "#1e3c68", // altera
+    "activityBarBadge.background": "#1e3c68",
     "activityBarBadge.foreground": "#9abcee",
     "badge.background": "#1e3c68",
     "breadcrumb.activeSelectionForeground": "#ffffff",
@@ -62,8 +62,8 @@
     "list.highlightForeground": "#c5c5c5",
     "list.hoverBackground": "#2e3f4e",
     "list.inactiveSelectionBackground": "#2e3f4e",
-    "list.inactiveSelectionForeground": "#d7dae0",
     "list.inactiveFocusOutline": "#1e3c68",
+    "list.inactiveSelectionForeground": "#d7dae0",
     "panel.background": "#282c34",
     "panel.border": "#23272e",
     "panelTitle.activeBorder": "#1e3c68",

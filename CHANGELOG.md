@@ -12,4 +12,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Added the new `Steel` variant based on `#8C8C8C`.
 - Added the new `Olive` variant based on `#94A653`.
 - Added the new `Coral` variant based on `#FF5F5D`.
+- Added the new `Dusk In The Savannah [Plus] - Taupe` variant with custom dark editor and panel backgrounds based on the sand/taupe palette.
 - Registered all theme variants in the extension manifest so they are selectable in VS Code.

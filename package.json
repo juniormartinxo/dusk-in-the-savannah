@@ -3,7 +3,7 @@
   "displayName": "Dusk In The Savannah",
   "description": "A dark theme with a graphite base and clean contrast. Made for long coding sessions with low eye strain and total focus.",
   "publisher": "juniormartinxo",
-  "version": "0.0.4",
+  "version": "0.0.45",
   "repository": {
     "type": "git",
     "url": "https://github.com/juniormartinxo/dusk-in-the-savannah.git"
@@ -63,14 +63,49 @@
         "path": "./themes/juniormartinxo-coral-color-theme.json"
       },
       {
+        "label": "Dusk In The Savannah - Crimson",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juniormartinxo-crimson-color-theme.json"
+      },
+      {
+        "label": "Dusk In The Savannah [Plus] - Crimson",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juniormartinxo-plus-crimson-color-theme.json"
+      },
+      {
+        "label": "Dusk In The Savannah - Mauve",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juniormartinxo-mauve-color-theme.json"
+      },
+      {
+        "label": "Dusk In The Savannah [Plus] - Mauve",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juniormartinxo-plus-mauve-color-theme.json"
+      },
+      {
         "label": "Dusk In The Savannah - Violet",
         "uiTheme": "vs-dark",
         "path": "./themes/juniormartinxo-violet-color-theme.json"
       },
       {
+        "label": "Dusk In The Savannah [Plus] - Violet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juniormartinxo-plus-violet-color-theme.json"
+      },
+      {
+        "label": "Dusk In The Savannah - Taupe",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juniormartinxo-taupe-color-theme.json"
+      },
+      {
         "label": "Dusk In The Savannah [Plus] - Taupe",
         "uiTheme": "vs-dark",
         "path": "./themes/juniormartinxo-plus-taupe-color-theme.json"
+      },
+      {
+        "label": "Dusk In The Savannah - Lagoon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juniormartinxo-lagoon-color-theme.json"
       },
       {
         "label": "Dusk In The Savannah [Plus] - Lagoon",

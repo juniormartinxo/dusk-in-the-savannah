@@ -9,12 +9,12 @@ A family of **dark** VS Code themes inspired by the dusk of the savannah: graphi
 ## Why use it
 
 * **Low visual fatigue**: balanced dark tones, no "flat black".
-* **Accent variety**: choose between the original accent plus Forest, Ocean, Ruby, Ember, Ochre, Steel, Olive, Coral, Violet, and the new `[Plus]` Taupe variant.
+* **Accent variety**: choose between the original accent plus Forest, Ocean, Ruby, Ember, Ochre, Steel, Olive, Coral, Crimson, Mauve, Violet, Taupe, Lagoon, and the `[Plus]` variants for Crimson, Mauve, Violet, Taupe, and Lagoon.
 * **Consistent UI**: sidebar, tabs, panel, and terminal speaking the same palette language.
 
 ## Included Themes
 
-This extension currently ships with eleven selectable themes:
+This extension currently ships with nineteen selectable themes:
 
 * `Dusk In The Savannah`
 * `Dusk In The Savannah - Forest`
@@ -25,8 +25,16 @@ This extension currently ships with eleven selectable themes:
 * `Dusk In The Savannah - Steel`
 * `Dusk In The Savannah - Olive`
 * `Dusk In The Savannah - Coral`
+* `Dusk In The Savannah - Crimson`
+* `Dusk In The Savannah [Plus] - Crimson`
+* `Dusk In The Savannah - Mauve`
+* `Dusk In The Savannah [Plus] - Mauve`
 * `Dusk In The Savannah - Violet`
+* `Dusk In The Savannah [Plus] - Violet`
+* `Dusk In The Savannah - Taupe`
 * `Dusk In The Savannah [Plus] - Taupe`
+* `Dusk In The Savannah - Lagoon`
+* `Dusk In The Savannah [Plus] - Lagoon`
 
 ## Installation
 
@@ -45,8 +53,16 @@ This extension currently ships with eleven selectable themes:
    * `Dusk In The Savannah - Steel`
    * `Dusk In The Savannah - Olive`
    * `Dusk In The Savannah - Coral`
+   * `Dusk In The Savannah - Crimson`
+   * `Dusk In The Savannah [Plus] - Crimson`
+   * `Dusk In The Savannah - Mauve`
+   * `Dusk In The Savannah [Plus] - Mauve`
    * `Dusk In The Savannah - Violet`
+   * `Dusk In The Savannah [Plus] - Violet`
+   * `Dusk In The Savannah - Taupe`
    * `Dusk In The Savannah [Plus] - Taupe`
+   * `Dusk In The Savannah - Lagoon`
+   * `Dusk In The Savannah [Plus] - Lagoon`
 
 ## Recommended Configuration
 
@@ -81,8 +97,16 @@ Suggestion to make reading even more "premium":
 * **Steel:** `#8C8C8C`
 * **Olive:** `#94A653`
 * **Coral:** `#FF5F5D`
+* **Crimson:** `#260303`, `#590404`, `#8C0808`, `#BF0F0F`, `#F2F2F2`
+* **[Plus] Crimson:** `#260303`, `#2E0505`, `#3A0707`, `#BF0F0F`, `#F2F2F2`
+* **Mauve:** `#8C3E62`, `#4C2C59`, `#2E2140`, `#F2C5BB`, `#F27777`
+* **[Plus] Mauve:** `#241B33`, `#302241`, `#4A3654`, `#8C3E62`, `#F27777`
 * **Violet:** `#7F00FF`
+* **[Plus] Violet:** `#4B4FA6`, `#5E66F2`, `#6B7FF2`, `#99A6F2`, `#B3BDF2`
+* **Taupe:** `#A69CA4`, `#D9D0C1`, `#BFB1A4`, `#A6756A`, `#73534C`
 * **[Plus] Taupe:** `#595445`, `#8C816D`, `#BFB49F`, `#F2DABD`, `#0D0D0D`
+* **Lagoon:** `#4184BF`, `#51A676`, `#BED95B`, `#BF3B3B`, `#D9D9D9`
+* **[Plus] Lagoon:** `#72C1F2`, `#BBDDF2`, `#58732F`, `#86A641`, `#ABBF7E`
 
 ## Icon
 
@@ -124,8 +148,14 @@ Works well in:
 * Added the new `Steel` variant based on `#8C8C8C`.
 * Added the new `Olive` variant based on `#94A653`.
 * Added the new `Coral` variant based on `#FF5F5D`.
+* Added the new `Dusk In The Savannah - Crimson` and `Dusk In The Savannah [Plus] - Crimson` variants based on the deep crimson palette.
+* Added the new `Dusk In The Savannah - Mauve` and `Dusk In The Savannah [Plus] - Mauve` variants based on the rose-plum palette.
+* Added the new `Dusk In The Savannah - Taupe` and `Dusk In The Savannah - Lagoon` variants so both palettes now have common and plus versions.
+* Added the new `Dusk In The Savannah [Plus] - Violet` variant based on the softer blue-violet palette.
 * Added the new `Dusk In The Savannah [Plus] - Taupe` variant with a deeper sand-and-taupe UI treatment.
-* Updated the extension contribution list so all eleven themes appear in VS Code.
+* Added the new `Dusk In The Savannah [Plus] - Lagoon` variant with a sea-and-olive UI treatment.
+* Updated the plus variants so the editor background is lighter.
+* Updated the extension contribution list so all nineteen themes appear in VS Code.
 
 ## License
 

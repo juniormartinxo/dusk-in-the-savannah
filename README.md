@@ -9,12 +9,12 @@ A family of **dark** VS Code themes inspired by the dusk of the savannah: graphi
 ## Why use it
 
 * **Low visual fatigue**: balanced dark tones, no "flat black".
-* **Accent variety**: choose between the original accent plus Forest, Ocean, Ruby, Ember, Ochre, Steel, Olive, Coral, Crimson, Mauve, Violet, Taupe, Lagoon, and the `[Plus]` variants for Crimson, Mauve, Violet, Taupe, and Lagoon.
+* **Accent variety**: choose between the original accent plus Forest, Ocean, Ruby, Ember, Ochre, Steel, Olive, Coral, Crimson, Mauve, Violet, Taupe, Lagoon, Harbor, and the `[Plus]` variants for Crimson, Mauve, Violet, Taupe, Lagoon, and Harbor.
 * **Consistent UI**: sidebar, tabs, panel, and terminal speaking the same palette language.
 
 ## Included Themes
 
-This extension currently ships with nineteen selectable themes:
+This extension currently ships with twenty-one selectable themes:
 
 * `Dusk In The Savannah`
 * `Dusk In The Savannah - Forest`
@@ -35,6 +35,8 @@ This extension currently ships with nineteen selectable themes:
 * `Dusk In The Savannah [Plus] - Taupe`
 * `Dusk In The Savannah - Lagoon`
 * `Dusk In The Savannah [Plus] - Lagoon`
+* `Dusk In The Savannah - Harbor`
+* `Dusk In The Savannah [Plus] - Harbor`
 
 ## Installation
 
@@ -63,6 +65,8 @@ This extension currently ships with nineteen selectable themes:
    * `Dusk In The Savannah [Plus] - Taupe`
    * `Dusk In The Savannah - Lagoon`
    * `Dusk In The Savannah [Plus] - Lagoon`
+   * `Dusk In The Savannah - Harbor`
+   * `Dusk In The Savannah [Plus] - Harbor`
 
 ## Recommended Configuration
 
@@ -107,6 +111,8 @@ Suggestion to make reading even more "premium":
 * **[Plus] Taupe:** `#595445`, `#8C816D`, `#BFB49F`, `#F2DABD`, `#0D0D0D`
 * **Lagoon:** `#4184BF`, `#51A676`, `#BED95B`, `#BF3B3B`, `#D9D9D9`
 * **[Plus] Lagoon:** `#72C1F2`, `#BBDDF2`, `#58732F`, `#86A641`, `#ABBF7E`
+* **Harbor:** `#1E3259`, `#35568C`, `#6D93D2`, `#AAC0E0`, `#DCE6F5`
+* **[Plus] Harbor:** `#18243A`, `#243652`, `#35568C`, `#84A4D6`, `#D9E5F5`
 
 ## Icon
 
@@ -154,8 +160,9 @@ Works well in:
 * Added the new `Dusk In The Savannah [Plus] - Violet` variant based on the softer blue-violet palette.
 * Added the new `Dusk In The Savannah [Plus] - Taupe` variant with a deeper sand-and-taupe UI treatment.
 * Added the new `Dusk In The Savannah [Plus] - Lagoon` variant with a sea-and-olive UI treatment.
+* Added the new `Dusk In The Savannah - Harbor` and `Dusk In The Savannah [Plus] - Harbor` variants based on the manually tuned navy palette around `#1E3259`.
 * Updated the plus variants so the editor background is lighter.
-* Updated the extension contribution list so all nineteen themes appear in VS Code.
+* Updated the extension contribution list so all twenty-one themes appear in VS Code.
 
 ## License
 

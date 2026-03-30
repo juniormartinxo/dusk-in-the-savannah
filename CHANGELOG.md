@@ -18,5 +18,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Added the new `Dusk In The Savannah [Plus] - Violet` variant based on the softer blue-violet palette.
 - Added the new `Dusk In The Savannah [Plus] - Taupe` variant with custom dark editor and panel backgrounds based on the sand/taupe palette.
 - Added the new `Dusk In The Savannah [Plus] - Lagoon` variant with custom deep blue/green backgrounds based on the lagoon palette.
+- Added the new `Dusk In The Savannah - Harbor` and `Dusk In The Savannah [Plus] - Harbor` variants based on the manually tuned navy palette around `#1E3259`.
 - Lightened the editor background in all `[Plus]` variants.
 - Registered all theme variants in the extension manifest so they are selectable in VS Code.

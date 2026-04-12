@@ -3,7 +3,7 @@
   "displayName": "Dusk In The Savannah",
   "description": "A dark theme with a graphite base and clean contrast. Made for long coding sessions with low eye strain and total focus.",
   "publisher": "juniormartinxo",
-  "version": "0.0.48",
+  "version": "0.0.49",
   "repository": {
     "type": "git",
     "url": "https://github.com/juniormartinxo/dusk-in-the-savannah.git"
@@ -121,6 +121,21 @@
         "label": "Dusk In The Savannah [Plus] - Harbor",
         "uiTheme": "vs-dark",
         "path": "./themes/juniormartinxo-plus-harbor-color-theme.json"
+      },
+      {
+        "label": "Dusk In The Savannah - Klautors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juniormartinxo-klautors-color-theme.json"
+      },
+      {
+        "label": "Dusk In The Savannah [Plus] - Klautors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juniormartinxo-plus-klautors-color-theme.json"
+      },
+      {
+        "label": "Dusk In The Savannah [Plus] - Bandeira",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juniormartinxo-plus-bandeira-color-theme.json"
       }
     ]
   }
